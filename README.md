@@ -60,5 +60,9 @@
 https://github.com/gopinathsjsu/team-project-ninjas/blob/main/Scrum%20Task%20Sheet/Scrum%20Report%20Sheet.xlsx
 
 <h2>Burndown Chart</h2>
+
 <img width="448" alt="image" src="https://user-images.githubusercontent.com/50801491/167760797-1d179554-4c69-4812-8dc1-1d14eec2bc30.png">
 
+<h2>Project Board</h2>
+
+https://github.com/orgs/gopinathsjsu/projects/25
