@@ -29,7 +29,7 @@
 
 <b>Rajvi Shah</b>
 - Backend API Development
-- Deployment
+- API Deployment
 
 <h2>XP Core Values</h2>
 - Communication: We scheduled regular scrum meetings and communicated all about our progress and the next steps.
@@ -54,3 +54,11 @@
 <h1>Deployment Diagram</h1>
 
 ![image](https://user-images.githubusercontent.com/50801491/167760488-619803a8-0970-42f5-aa60-b5cb5215b3d7.png)
+
+<h2>Scrum Task Sheet</h2>
+
+https://github.com/gopinathsjsu/team-project-ninjas/blob/main/Scrum%20Task%20Sheet/Scrum%20Report%20Sheet.xlsx
+
+<h2>Burndown Chart</h2>
+<img width="448" alt="image" src="https://user-images.githubusercontent.com/50801491/167760797-1d179554-4c69-4812-8dc1-1d14eec2bc30.png">
+
