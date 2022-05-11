@@ -2,19 +2,19 @@
 
 <h3>Tech Stack:</h3>
 
-Front-end
+<b>Front-end<b>
 - ReactJS
 - HTML
 - CSS
 - Bootstrap
 
-Back-end
+<b>Back-end</b>
 - Springboot
 
-Database
+<b>Database</b>
 - H2
 
-API Deployment
+<b>API Deployment</b>
 - Heroku
 
 
