@@ -2,8 +2,12 @@ import React, { Component } from 'react';
 import validate from './validateInfo';
 import useForm from './useForm';
 import './Form.css';
+// import {Navigate} from  'react-router';
+// import HotelList from '../components/HotelList';
 
 class FormLogin extends Component {
+
+    
 
     constructor(props) {
         super(props);
@@ -46,6 +50,9 @@ class FormLogin extends Component {
                     type: response.data.roles[0] === "ROLE_USER" ? "user" : "employee"
                 }
                 localStorage.setItem('data', JSON.stringify(data))
+                // navigate.push('/hotel');
+                // return <Navigate to='/hotels' replace={true} />
+                // return <Navigate to="/hotels" />
             })
             .catch(function (error) {
                 console.log(error);

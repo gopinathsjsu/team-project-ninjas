@@ -31,7 +31,7 @@ function App() {
           <Route exact path="/booking/hotel_id=:hotel_id/room_id=:room_id" component={Booknow} />
           <Route component={Error} />
         </Switch>
-        <Footer />
+        {/* <Footer /> */}
       </BrowserRouter>
     </div>
   );
