@@ -1,6 +1,6 @@
 # team-project-ninjas
 
-Tech Stack:
+<h3>Tech Stack:</h3>
 
 Front-end
 - ReactJS
