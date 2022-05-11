@@ -36,4 +36,5 @@
 - Feedback: In every scheduled scrum meeting, we gave each other positive feedback about the work.
 
 <h1>Architectural Design</h1>
-<img>https://raw.githubusercontent.com/gopinathsjsu/team-project-ninjas/main/Architectural%20Diagram/Architecture%20Diagram.png</img>
+
+![image](https://user-images.githubusercontent.com/50801491/167760113-4fe59616-1584-4455-b3c6-8a7f34e44ab7.png)
