@@ -1,2 +1,20 @@
 # team-project-ninjas
-team-project-ninjas created by GitHub Classroom
+
+Tech Stack:
+
+Front-end
+- ReactJS
+- HTML
+- CSS
+- Bootstrap
+
+Back-end
+- Springboot
+
+Database
+- H2
+
+API Deployment
+- Heroku
+
+
